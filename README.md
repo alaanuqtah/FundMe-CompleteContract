@@ -13,8 +13,7 @@
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-fund-me-f23
-cd foundry-fund-me-f23
+git clone https://github.com/alaanuqtah/FundMe-CompleteContract.git
 forge build
 ```
 
